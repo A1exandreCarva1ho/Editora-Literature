@@ -1,0 +1,15 @@
+
+*{
+  margin: 3px;
+  background-color: rgb(200, 221, 142);
+  color: red;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.submit{
+  background-color: rgb(255, 255, 255);
+  color:red;
+  border-color: red;
+  border-radius: 20px 20px 20px 20px;
+  margin: 15px 5px 5px 5px;
+}
